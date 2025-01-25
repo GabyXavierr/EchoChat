@@ -1,0 +1,19 @@
+# Estrutura do projeto
+
+# Tela Incial:
+  # Título: EchoChat
+  # Botão: Iniciar Chat
+    # Quando clicar no botão:
+      # Abrir um pop up/modal/alerta
+         # Título: Bem vindo ao EchoChat
+         # Caixa de Texto: Escreva seu nome no chat
+         # Botão: Entrar no chat
+           # Quando clicar no botão
+              # Sumir o título e botão
+              # Sumir com o popup
+                # Carregar o chat
+                # Campo de enviar mensagem: "Digite sua mensagem"
+                # Botão: Enviar
+                  # Quando clicar no botão enviar
+                     # Vai enviar a mensagem 
+                     # Limpar a caixa de mensagem
